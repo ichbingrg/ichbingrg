@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ichbingrg
 - 🏫 I'm studying Computer Science at TU Hamburg, Germany
-- 👀 I’m interested in anything that requires coding
+- 👀 I’m interested in anything that requires coding, specially web3.0 project
 - 🌱 I’m currently learning js animations and golang for backend 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
